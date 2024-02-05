@@ -1,1 +1,1 @@
-# jogo-da-memoria-emojis
+Desafie sua memória combinando pares de emojis idênticos em um conjunto de cartas viradas para baixo. Clique em duas cartas por vez para revelar seus emojis e encontre todos os pares correspondentes. Divirta-se testando sua concentração e memória com este jogo interativo!
